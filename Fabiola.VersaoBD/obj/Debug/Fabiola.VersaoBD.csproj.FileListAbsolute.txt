@@ -1,0 +1,9 @@
+C:\Users\fabio_000\source\repos\Fabiola.VersaoBD\obj\Debug\Fabiola.VersaoBD.csprojAssemblyReference.cache
+C:\Users\fabio_000\source\repos\Fabiola.VersaoBD\obj\Debug\Fabiola.VersaoBD.csproj.CoreCompileInputs.cache
+C:\Users\fabio_000\source\repos\Fabiola.VersaoBD\bin\Debug\EmpresaDados.mdf
+C:\Users\fabio_000\source\repos\Fabiola.VersaoBD\bin\Debug\EmpresaDados_log.ldf
+C:\Users\fabio_000\source\repos\Fabiola.VersaoBD\bin\Debug\Fabiola.VersaoBD.exe.config
+C:\Users\fabio_000\source\repos\Fabiola.VersaoBD\bin\Debug\Fabiola.VersaoBD.exe
+C:\Users\fabio_000\source\repos\Fabiola.VersaoBD\bin\Debug\Fabiola.VersaoBD.pdb
+C:\Users\fabio_000\source\repos\Fabiola.VersaoBD\obj\Debug\Fabiola.VersaoBD.exe
+C:\Users\fabio_000\source\repos\Fabiola.VersaoBD\obj\Debug\Fabiola.VersaoBD.pdb
